@@ -84,7 +84,11 @@ main{
   animation: colorChange 5s; /*animationはhover時にセット*/
   -webkit-animation: colorChange 5s;
 }
- 
+ .group:hover{
+  animation: colorChange 5s; /*animationはhover時にセット*/
+  -webkit-animation: colorChange 5s;
+}
+
 @keyframes colorChange {
     0% {
         transform: scale(1.0);
