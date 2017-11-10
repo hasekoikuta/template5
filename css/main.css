@@ -90,7 +90,7 @@ main{
         transform: scale(1.0);
         -webkit-transform: scale(1.0);
     }
-    10% {
+    4% {
         transform: scale(0.95);
         -webkit-transform: scale(0.95);
     }
